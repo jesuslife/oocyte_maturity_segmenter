@@ -1,0 +1,6 @@
+outs:
+- md5: 3a4f2d819ea4f6b98f4a2f2594bacab1.dir
+  size: 299434602
+  nfiles: 2
+  hash: md5
+  path: Weights
