@@ -1,0 +1,5 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = gs://b1-computer-vision/Pearl-2/oocyte_maturity_segmenter
+    version_aware = true
